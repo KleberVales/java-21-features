@@ -40,6 +40,10 @@ Novas interfaces para coleções ordenadas.
 **Impacto:** ⭐⭐⭐
 
 ### 5. 🎨 String Templates (Preview)
+Interpolação de strings mais segura.
+
+**Status:** 🔄 Preview  
+**Impacto:** ⭐⭐⭐
 
 
 
