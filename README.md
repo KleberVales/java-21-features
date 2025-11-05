@@ -53,6 +53,10 @@ Variáveis não utilizadas com `_`.
 
 ## 🚀 Como Executar
 
+### Pré-requisitos
+- JDK 21 ou superior
+- Maven 3.6+ ou Gradle 7.0+
+
 
 
 
