@@ -18,6 +18,9 @@ Repositório demonstrando as principais novidades do **Java 21** (LTS), lançado
 ### 1. 🧵 Virtual Threads (Final)
 Threads leves que revolucionam a programação concorrente.
 
+**Status:** ✅ Final  
+**Impacto:** ⭐⭐⭐⭐⭐
+
 
 
 
