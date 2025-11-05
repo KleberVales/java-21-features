@@ -51,6 +51,9 @@ Variáveis não utilizadas com `_`.
 **Status:** 🔄 Preview  
 **Impacto:** ⭐⭐
 
+## 🚀 Como Executar
+
+
 
 
 
