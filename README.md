@@ -21,6 +21,9 @@ Threads leves que revolucionam a programação concorrente.
 **Status:** ✅ Final  
 **Impacto:** ⭐⭐⭐⭐⭐
 
+### 2. 🎯 Pattern Matching for switch (Final)
+
+
 
 
 
