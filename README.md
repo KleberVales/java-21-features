@@ -46,6 +46,10 @@ Interpolação de strings mais segura.
 **Impacto:** ⭐⭐⭐
 
 ### 6. 🔧 Unnamed Patterns and Variables (Preview)
+Variáveis não utilizadas com `_`.
+
+**Status:** 🔄 Preview  
+**Impacto:** ⭐⭐
 
 
 
