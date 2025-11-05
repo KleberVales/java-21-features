@@ -10,4 +10,5 @@ Repositório demonstrando as principais novidades do **Java 21** (LTS), lançado
 - [✨ Features Principais](#-features-principais)
 - [🚀 Como Executar](#-como-executar)
 - [📚 Exemplos de Código](#-exemplos-de-código)
+- [🔧 Requisitos](#-requisitos)
 
