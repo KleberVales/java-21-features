@@ -33,6 +33,9 @@ Destructuring de records em pattern matching.
 **Status:** ✅ Final  
 **Impacto:** ⭐⭐⭐⭐
 
+### 4. 📚 Sequenced Collections (Final)
+
+
 
 
 
