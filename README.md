@@ -28,6 +28,8 @@ Switch statements mais inteligentes e expressivos.
 **Impacto:** ⭐⭐⭐⭐
 
 ### 3. 📊 Record Patterns (Final)
+Destructuring de records em pattern matching.
+
 
 
 
