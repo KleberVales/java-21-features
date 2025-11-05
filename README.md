@@ -45,6 +45,8 @@ Interpolação de strings mais segura.
 **Status:** 🔄 Preview  
 **Impacto:** ⭐⭐⭐
 
+### 6. 🔧 Unnamed Patterns and Variables (Preview)
+
 
 
 
