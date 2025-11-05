@@ -39,6 +39,8 @@ Novas interfaces para coleções ordenadas.
 **Status:** ✅ Final  
 **Impacto:** ⭐⭐⭐
 
+### 5. 🎨 String Templates (Preview)
+
 
 
 
