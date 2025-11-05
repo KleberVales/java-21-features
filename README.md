@@ -34,6 +34,10 @@ Destructuring de records em pattern matching.
 **Impacto:** ⭐⭐⭐⭐
 
 ### 4. 📚 Sequenced Collections (Final)
+Novas interfaces para coleções ordenadas.
+
+**Status:** ✅ Final  
+**Impacto:** ⭐⭐⭐
 
 
 
