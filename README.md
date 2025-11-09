@@ -57,11 +57,7 @@ Variáveis não utilizadas com `_`.
 - JDK 21 ou superior
 - Maven 3.6+ ou Gradle 7.0+
 
-### Compilar e Executar
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/java-21-features.git
-cd java-21-features
+
 
 Kleber Vales
 
