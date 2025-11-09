@@ -57,7 +57,7 @@ Variáveis não utilizadas com `_`.
 - JDK 21 ou superior
 - Maven 3.6+ ou Gradle 7.0+
 
-
+---
 
 Kleber Vales
 
