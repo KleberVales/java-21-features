@@ -61,7 +61,7 @@ Variáveis não utilizadas com `_`.
 
 Kleber Vales
 
-Back-end Software Engineer - Java - Cloud
+Back-end Software Engineer - Java - Cloud - DevOps
 
 
 
